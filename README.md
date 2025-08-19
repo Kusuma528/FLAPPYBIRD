@@ -1,18 +1,36 @@
-## Getting Started
+# 🐦 Flappy Bird Game (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **Flappy Bird game** developed in **Java using Swing and AWT**.  
+The player controls a bird that must fly between pipes without hitting them.  
+This project demonstrates **basic graphics, animation, event handling, and collision detection** in Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Features
+- Developed using **Java Swing and AWT**  
+- Bird movement with **gravity and jump velocity**  
+- **Randomly generated pipes** for obstacles  
+- **Score counter** (increments when bird passes pipes)  
+- **Restart by pressing UP Arrow again after Game Over**  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🚀 How to Play
+- Run the game from your IDE or terminal  
+- Press the **UP Arrow key** to make the bird jump  
+- Avoid hitting the **pipes** and **ground**  
+- Each pipe passed increases your score  
+- After **Game Over**, press the **UP Arrow** again to restart  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠 Technologies Used
+- **Java** (Core)  
+- **Java Swing / AWT** for GUI and graphics  
+
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – you are free to use and modify it with attribution.
